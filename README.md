@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kmantri1991/Java-Pipeline/_apis/build/status/kmantri141991.pipelines-java?branchName=master)](https://dev.azure.com/kmantri1991/Java-Pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
